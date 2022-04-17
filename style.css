@@ -367,7 +367,6 @@ body::-webkit-scrollbar {
     from {
         bottom: -80px;
     }
-
     to {
         bottom: 800px;
     }
