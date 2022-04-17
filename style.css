@@ -1,10 +1,11 @@
 @font-face{
     font-family: "Vanguard";
-    src: url(/VanguardCF-DemiBold.otf);
+    src: url(/VanguardCF.otf);
 }
-@font-face{
-    font-family: "Modera";
-    src: url(/MODERA.ttf);
+
+@font-face {
+    font-family: 'FontName';
+    src: url();
 }
 
 *{
