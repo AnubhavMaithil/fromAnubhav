@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: 'FontName';
-    src: url();
+    font-family: "Gilroy";
+    src: url(/Gilroy-SemiBold.ttf);
 }
 
 *{
