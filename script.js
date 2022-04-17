@@ -137,7 +137,7 @@ document.querySelectorAll(".insider").forEach(function(elm){
             document.querySelector("#imgcursor").style.mixBlendMode = "difference";
         }
         window.requestAnimationFrame(imgcursor);
-        smcircle();
+        window.requestAnimationFrame(smcircle);
         document.querySelector("#main").style.backgroundColor = dets.target.dataset.color;
     })
     
@@ -157,7 +157,7 @@ document.querySelectorAll(".insider").forEach(function(elm){
                 });
         }
         window.requestAnimationFrame(imgcursor);
-        smcircle();
+        window.requestAnimationFrame(smcircle);
         document.querySelector("#main").style.backgroundColor = "#F8F8F8";
     })
 })
