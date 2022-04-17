@@ -73,7 +73,7 @@ body::-webkit-scrollbar {
     border: 2px solid black;
     border-radius: 50%;
     z-index: 999;
-    transition: all ease-out .15s;
+    transition: all ease-out .1s;
     pointer-events: none;
 }
 
@@ -95,7 +95,7 @@ body::-webkit-scrollbar {
     border-radius: 50%;
     opacity: 0;
     z-index: 99;
-    transition: all ease-out .15s;
+    transition: all ease-out .1s;
     pointer-events: none;
 }
 .wheel{
