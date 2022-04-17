@@ -1,11 +1,11 @@
 @font-face{
     font-family: "Vanguard";
-    src: url(/VanguardCF.otf);
+    src: url(VanguardCF.otf);
 }
 
 @font-face {
     font-family: "Gilroy";
-    src: url(/Gilroy-SemiBold.ttf);
+    src: url(Gilroy-SemiBold.ttf);
 }
 
 *{
